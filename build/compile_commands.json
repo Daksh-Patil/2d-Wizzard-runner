@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/daksh/Desktop/final game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/FinalGame.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\FinalGame.dir\\src\\Boss.cpp.obj -c \"C:\\Users\\daksh\\Desktop\\final game\\src\\Boss.cpp\"",
+  "file": "C:/Users/daksh/Desktop/final game/src/Boss.cpp",
+  "output": "CMakeFiles/FinalGame.dir/src/Boss.cpp.obj"
+},
+{
+  "directory": "C:/Users/daksh/Desktop/final game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/FinalGame.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\FinalGame.dir\\src\\Enemy.cpp.obj -c \"C:\\Users\\daksh\\Desktop\\final game\\src\\Enemy.cpp\"",
+  "file": "C:/Users/daksh/Desktop/final game/src/Enemy.cpp",
+  "output": "CMakeFiles/FinalGame.dir/src/Enemy.cpp.obj"
+},
+{
+  "directory": "C:/Users/daksh/Desktop/final game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/FinalGame.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\FinalGame.dir\\src\\Game.cpp.obj -c \"C:\\Users\\daksh\\Desktop\\final game\\src\\Game.cpp\"",
+  "file": "C:/Users/daksh/Desktop/final game/src/Game.cpp",
+  "output": "CMakeFiles/FinalGame.dir/src/Game.cpp.obj"
+},
+{
+  "directory": "C:/Users/daksh/Desktop/final game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/FinalGame.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\FinalGame.dir\\src\\Level.cpp.obj -c \"C:\\Users\\daksh\\Desktop\\final game\\src\\Level.cpp\"",
+  "file": "C:/Users/daksh/Desktop/final game/src/Level.cpp",
+  "output": "CMakeFiles/FinalGame.dir/src/Level.cpp.obj"
+},
+{
+  "directory": "C:/Users/daksh/Desktop/final game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/FinalGame.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\FinalGame.dir\\src\\ParallaxBG.cpp.obj -c \"C:\\Users\\daksh\\Desktop\\final game\\src\\ParallaxBG.cpp\"",
+  "file": "C:/Users/daksh/Desktop/final game/src/ParallaxBG.cpp",
+  "output": "CMakeFiles/FinalGame.dir/src/ParallaxBG.cpp.obj"
+},
+{
+  "directory": "C:/Users/daksh/Desktop/final game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/FinalGame.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\FinalGame.dir\\src\\Player.cpp.obj -c \"C:\\Users\\daksh\\Desktop\\final game\\src\\Player.cpp\"",
+  "file": "C:/Users/daksh/Desktop/final game/src/Player.cpp",
+  "output": "CMakeFiles/FinalGame.dir/src/Player.cpp.obj"
+},
+{
+  "directory": "C:/Users/daksh/Desktop/final game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/FinalGame.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\FinalGame.dir\\src\\UI.cpp.obj -c \"C:\\Users\\daksh\\Desktop\\final game\\src\\UI.cpp\"",
+  "file": "C:/Users/daksh/Desktop/final game/src/UI.cpp",
+  "output": "CMakeFiles/FinalGame.dir/src/UI.cpp.obj"
+},
+{
+  "directory": "C:/Users/daksh/Desktop/final game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/FinalGame.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\FinalGame.dir\\src\\main.cpp.obj -c \"C:\\Users\\daksh\\Desktop\\final game\\src\\main.cpp\"",
+  "file": "C:/Users/daksh/Desktop/final game/src/main.cpp",
+  "output": "CMakeFiles/FinalGame.dir/src/main.cpp.obj"
+}
+]
